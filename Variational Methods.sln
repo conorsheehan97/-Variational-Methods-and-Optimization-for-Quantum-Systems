@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Variational Methods", "Variational Methods.vcxproj", "{F9E423BF-2CFB-43A5-9555-F0C204E3AC4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9E423BF-2CFB-43A5-9555-F0C204E3AC4D}.Debug|x64.ActiveCfg = Debug|x64
+		{F9E423BF-2CFB-43A5-9555-F0C204E3AC4D}.Debug|x64.Build.0 = Debug|x64
+		{F9E423BF-2CFB-43A5-9555-F0C204E3AC4D}.Debug|x86.ActiveCfg = Debug|Win32
+		{F9E423BF-2CFB-43A5-9555-F0C204E3AC4D}.Debug|x86.Build.0 = Debug|Win32
+		{F9E423BF-2CFB-43A5-9555-F0C204E3AC4D}.Release|x64.ActiveCfg = Release|x64
+		{F9E423BF-2CFB-43A5-9555-F0C204E3AC4D}.Release|x64.Build.0 = Release|x64
+		{F9E423BF-2CFB-43A5-9555-F0C204E3AC4D}.Release|x86.ActiveCfg = Release|Win32
+		{F9E423BF-2CFB-43A5-9555-F0C204E3AC4D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9595C722-A916-450E-AD55-490B52AA2E10}
+	EndGlobalSection
+EndGlobal
