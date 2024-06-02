@@ -9,7 +9,7 @@ This project explores variational methods and optimization techniques to find th
  # Project Overview
  ## Quantum Harmonic Oscillator
  ### Variational Method
- - $\textbf{Trial Wavefunction (\psi):}$ A trial wavefunction $\psi$ is used to calculate the energy expectation value of the Hamiltonian.
+ - $\textbf{Trial Wavefunction ($\psi$):}$ A trial wavefunction $\psi$ is used to calculate the energy expectation value of the Hamiltonian.
  - $\textbf{Parameter Optimization:}$ By iterating a parameter of $\psi$ over a set range, we determine the optimal value at the minimum energy. According to the Variational Method, this value is the closest to the true analytic value, which is known for the QHO.
 
  ### Gradient Descent Optimization
@@ -18,7 +18,7 @@ This project explores variational methods and optimization techniques to find th
 
  ## Lennard-Jones Potential
  ### New Scenario and Optimization
- - $\textbf{New Trial Wavefunction (\psi):}$ A new trial wavefunction is used for the Lennard-Jones potential.
+ - $\textbf{New Trial Wavefunction ($\psi$):}$ A new trial wavefunction is used for the Lennard-Jones potential.
  - $\textbf{Random Perturbations:}$ $\psi$ is perturbed at random points, and if the energy reduces, the new $\psi$ vector is retained.
  - $\textbf{Convergence:}$ This process is iterated until a convergent minimum energy value is found for the trial $\psi$. By the Variational Principle, this is as close to the analytic value as possible.
 
